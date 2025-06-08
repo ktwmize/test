@@ -1,0 +1,32 @@
+body {
+    background-color: burlywood;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: brown;
+    text-align: center;
+    border-radius: 50px;
+    margin: 15px 150px;
+    padding: 5px 0;
+    color: rgb(224, 195, 157);
+}
+
+.main {
+    background-color: rgb(243, 225, 201);
+    margin: 25px 150px;
+    border-radius: 30px;
+    padding: 25px;
+}
+
+.img {
+    width: 200px;
+    border-radius: 40px;
+}
+
+.footer {
+    background-color: brown;
+    color: burlywood;
+    padding: 52px;
+}
